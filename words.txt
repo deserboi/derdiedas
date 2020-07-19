@@ -1,0 +1,10 @@
+Mond
+Pruefung
+Hund
+Katze
+Kind
+Frau
+Mann
+Kuh
+Junge
+Auto
