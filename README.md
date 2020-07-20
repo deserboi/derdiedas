@@ -1,4 +1,4 @@
-#### Der, Die, Das?
+## Der, Die, Das?
 A little game to train your knowledge on Artikeln in german :)
 ___
 Enter words in the words.txt file to be tested on their corresponding Artikeln.
